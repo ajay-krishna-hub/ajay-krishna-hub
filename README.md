@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ajay-krishna-hub
-- 👀 I’m interested in ... Sensors, Motors, Controllers and pretty much Electronics in everything.
+- 👀 I’m interested in ... Sensors, Motors, Controllers and pretty much the Electronics in everything.
 - 🌱 I’m currently learning ... Analog and Digital Electronics, Power Electronics, RTOS, Batteries, 
 - 💞️ I’m looking to collaborate on ...Drones, Embedded Systems, Automotive Electronics 
 - 📫 How to reach me ... ajaykrishnarv@gmail.com
